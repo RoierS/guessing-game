@@ -6,19 +6,20 @@ class GuessingGame {
     }
 
     setRange(min, max) {
-
+        this.min = min;
+        this.max = max;
     }
 
     guess() {
-
+        
     }
 
     lower() {
-
+       
     }
 
     greater() {
-
+        
     }
 }
 
